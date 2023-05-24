@@ -2,6 +2,7 @@ import Header from './Header';
 import Card from './Card';
 import Footer from './Footer';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {

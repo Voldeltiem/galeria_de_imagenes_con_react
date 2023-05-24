@@ -3,7 +3,7 @@ import Badge from 'react-bootstrap/Badge';
 
 function Footer() {
   return (
-    <footer>Galeria de imagenes hecha con React <Badge pill bg="primary">®</Badge></footer>
+    <footer>Galeria de imagenes hecha con React <Badge bg="primary">®</Badge></footer>
   )
 }
 
